@@ -5,4 +5,7 @@
     <files>
         <file path="feature_case/graph/${testName}.cu" />
     </files>
+    <rules>
+        <optlevelRule excludeOptlevelNameString="cpu" />
+    </rules>
 </test>
