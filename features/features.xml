@@ -344,5 +344,6 @@
     <test testName="codepin_basic" configFile="config/TEMPLATE_codepin.xml" />
     <test testName="matmul" configFile="config/TEMPLATE_cublasLt.xml" />
     <test testName="transform" configFile="config/TEMPLATE_cublasLt.xml" />
+    <test testName="graph" configFile="config/TEMPLATE_graph.xml" />
   </tests>
 </suite>
